@@ -1,4 +1,4 @@
-# Brain Tumors MRIs Segmentation Masks vs CNN Grad-cam ++ Saliency Masks :
+# Brain Tumor MRIs Segmentation Masks vs CNN Grad-cam ++ Saliency Masks :
 ## *Which Texture Features For Each Tumor Image Will Potential Radiomic Biomarkers Show Up?*
 
 ### [Notebook Link](https://github.com/sherjoe/Brain-Tumor-Masks-Project/blob/main/brain-tumor-masks-project.ipynb)
