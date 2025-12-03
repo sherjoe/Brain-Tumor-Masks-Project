@@ -1,5 +1,5 @@
 # Brain Tumors MRIs Segmentation Masks vs CNN Grad-cam ++ Saliency Masks :
-## *Which Texture Features For Each Tumor Will Potential Radiomic Biomarkers Show Up?*
+## *Which Texture Features For Each Tumor Image Will Potential Radiomic Biomarkers Show Up?*
 
 Used Datasets : • Masoud Nickparvar, Kaggle Brain Tumor Dataset, 2020.
                 • SciDB Brain Tumor Dataset, SciDB, 2021.
