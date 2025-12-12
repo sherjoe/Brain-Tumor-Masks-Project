@@ -5,6 +5,8 @@
 
 ### [Notebook Link](https://github.com/sherjoe/Brain-Tumor-Masks-Project/blob/main/brain-tumor-masks-project.ipynb)
 
-Used Datasets : • Masoud Nickparvar, Kaggle Brain Tumor Dataset, 2020.
+Used Datasets : • Masoud Nickparvar, Kaggle Brain Tumor Dataset, 2020.  
                 • SciDB Brain Tumor Dataset, SciDB, 2021.
 Indrakumar K, and Ravikumar M. (2025). Brain Tumor Dataset: Segmentation & Classification [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/11957028
+
+Methodology inspired by : • Wu, Z.; Yang, Y.; Zha, Y. Radiomics Features on Magnetic Resonance Images Can Predict C5aR1Expression Levels and Prognosis in High-Grade Glioma. Cancers 2023, 15, 4661. https://doi.org/10.3390/cancers15184661
